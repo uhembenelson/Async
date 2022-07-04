@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Source sans pro;
+}
+
+.bg-yellow{
+    background: #FDDC63;
+}
+
+.bg-black{
+    background: #000000;
+}
+
+.text-white{
+    color: #fff;
+}
+
+.display-web{
+    font-size: 60px;
+    font-weight: 400;
+}
+
+.display-mobile{
+    font-size: 40px;
+    font-weight: 400;
+}
+
+.heading-one{
+    font-size: 40px;
+    font-weight: 400;
+}
+
+.heading-one-small{
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.heading-two{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.heading-two-bold{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.body-large{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.body-large-bold{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.body-small{
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.caption-large{
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.caption-small{
+    font-size: 11px;
+    font-weight: 400;
+}
+
+.subtext-color{
+    color: #999999
+}
